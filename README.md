@@ -6,6 +6,6 @@
 
 ***
 - bu normal fontlu fontlu
-- _bu italic fontlu
+- _bu italic fontlu_
 - *bu da italic *
 - __bu kalın fontlu bi cümle__
