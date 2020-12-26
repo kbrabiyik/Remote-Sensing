@@ -4,8 +4,8 @@
 ## 2. derece başlık
 ### 3. derece başlık
 
-'''
-bu normal fontlu fontlu
-_bu italic fontlu
-*bu da italic *
-__bu kalın fontlu bi cümle__
+"""
+- bu normal fontlu fontlu
+- _bu italic fontlu
+- *bu da italic *
+- __bu kalın fontlu bi cümle__
