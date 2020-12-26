@@ -9,3 +9,10 @@
 - _bu italic fontlu_
 - *bu da italic*
 - __bu kalın fontlu bi cümle__
+
+'''Python
+    def forward(self,x):
+    
+    
+    
+'''
