@@ -24,8 +24,17 @@ It is widely used for monitoring changes on earth related to water content in wa
 ## Converting water pixels raster to vector from clipped area (Kızılırmak)
 ![WaterPixels](Images/ExtractingWaterPixels.png)
 
-### Calculating Area of Pixels
+### *Calculating Area of Pixels*
 ![Area](Images/Area.png)
+
+
+## Applying Calculating Process to chosen 2 different images
+- For observing and calculating differences between two years of defined area (in this case Kızılırmak), we calculate the water pixels in km from two different Image and compare each other.
+- First, Images with optimum cloudiness were obtained from USGS Landsat 8 Surface Reflectance Tier 1 images and 2 images obtained. '2017-07-13'and '2019-11-08'
+![Landsaat2](Images/ExtractingWaterPixelsonChosenArea.png)
+
+### * Areas are calculated
+![Dif](Images/Differences.png)
 
 ***
 - bu normal fontlu fontlu
