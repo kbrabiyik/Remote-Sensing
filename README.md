@@ -8,14 +8,14 @@ In the project, first of all, Landsat images were used to produce the change of 
 An interactive map created via geemap as shown, NIR - SWIR1 - RED False-Color Band Combination is used for observing water dynamics
 ## Interactive Map
 
-!(Images/SurfaceWaterDynamicsinKızılırmak.png)
+!(Images/Surface-WaterDynamics.png)
 
 
 
 
 ### Best cloud-free image
 
-![Image that has best cloud ratio ](Images/BestImage.png)
+![Image that has best cloud ratio ](Images/Best_Image.png)
 
 ## Normalized Difference Water Index (NDWI)
 
