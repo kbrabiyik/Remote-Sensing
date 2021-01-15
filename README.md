@@ -1,4 +1,4 @@
-# GEO468 Project Report
+# GEO468E Project Report
  Kübra BIYIK                     010160528
  
 Download geemap to view interactive maps in this project : ["To Install Geemap"](https://pypi.org/project/geemap/)
