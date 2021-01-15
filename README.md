@@ -8,7 +8,7 @@ In the project, first of all, Landsat images were used to produce the change of 
 ## Interactive Map
 
 An interactive map created via geemap as shown, NIR - SWIR1 - RED False-Color Band Combination is used for observing water dynamics
-![TimeLapse of Kızılırmak Region from 1985 to 2019](Images/Surface Water Dynamics in Kızılırmak.png)
+!(Images/Surface Water Dynamics in Kızılırmak.png)
 
 
 ### Best cloud-free image
