@@ -19,7 +19,13 @@ It is widely used for monitoring changes on earth related to water content in wa
 ![NDWI](Images/NDWI.png)
 
 ## Extracting Water pixels from Image that clipped
+![NDWIp](Images/NDWI-WaterPixels.png)
 
+## Converting water pixels raster to vector from clipped area (Kızılırmak)
+![WaterPixels](Images/ExtractingWaterPixels.png)
+
+### Calculating Area of Pixels
+![Area](Images/Area.png)
 
 ***
 - bu normal fontlu fontlu
@@ -35,5 +41,5 @@ It is widely used for monitoring changes on earth related to water content in wa
 '''
 
 
-![NDWI](Images/NDWI.png)
+![WaterPixels](Images/ExtractingWaterPixels.png)
 g
