@@ -12,6 +12,10 @@ An interactive map created via geemap as shown, NIR - SWIR1 - RED False-Color Ba
 
 
 ## Best cloud-free image
+Images filtered the ImageCollection by roi and date, and then sort by cloud cover.
+
+For Learning how many Landsat 8 images are available for the study area at the range 2015-2019 codeS runned.
+Image properties were examined to check the pixel values and spectral signature. Also from Toolbar button on map, Plotting and Inspector informations of Image is taken into consideration. LANDSAT/LC08/C01/T1_SR/LC08_176031_20170713 has the best cloud ratio
 
 ![Image that has best cloud ratio ](Images/Best_Image.png)
 
@@ -38,5 +42,6 @@ It is widely used for monitoring changes on earth related to water content in wa
 ![Dif](Images/Differences.png)
 
 ## Splited Map of Area are Created
+On the left is the extracted water pixels from the images, on the right is the False color band combinations of the Images.
 ![Spl](Images/SplitterMap.png)
 
